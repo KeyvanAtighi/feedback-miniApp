@@ -1,1 +1,1 @@
-feedback-miniApp is a good mini one 
+feedback-miniApp is a good mini one.
